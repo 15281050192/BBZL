@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\BBZL\BBZL\bin\Debug\BBZL.dll
+C:\Users\Administrator\source\repos\BBZL\BBZL\bin\Debug\BBZL.pdb
+C:\Users\Administrator\source\repos\BBZL\BBZL\bin\Debug\BBZL.dll.manifest
+C:\Users\Administrator\source\repos\BBZL\BBZL\bin\Debug\BBZL.vsto
+C:\Users\Administrator\source\repos\BBZL\BBZL\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.Ribbon1.resources
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.csproj.Up2Date
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.dll
+C:\Users\Administrator\source\repos\BBZL\BBZL\obj\Debug\BBZL.pdb
